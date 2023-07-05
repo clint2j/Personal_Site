@@ -1,3 +1,4 @@
 <template>
+  <GlobeHeader />
     <NuxtPage />
 </template>
